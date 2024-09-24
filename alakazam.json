@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Abra",
+    "set": "MEW",
+    "coll": 63,
+    "reg": "G"
+  },
+  {
+    "name": "Abra",
+    "set": "MEW",
+    "coll": 63,
+    "reg": "G"
+  },
+  {
+    "name": "Abra",
+    "set": "MEW",
+    "coll": 63,
+    "reg": "G"
+  },
+  {
+    "name": "Abra",
+    "set": "MEW",
+    "coll": 63,
+    "reg": "G"
+  },
+  {
+    "name": "Kadabra",
+    "set": "MEW",
+    "coll": 64,
+    "reg": "G"
+  },
+  {
+    "name": "Alakazam ex",
+    "set": "MEW",
+    "coll": 65,
+    "reg": "G"
+  },
+  {
+    "name": "Alakazam ex",
+    "set": "SVP",
+    "coll": 50,
+    "reg": "G"
+  },
+  {
+    "name": "Alakazam ex",
+    "set": "SVP",
+    "coll": 50,
+    "reg": "G"
+  },
+  {
+    "name": "Mimikyu",
+    "set": "PAL",
+    "coll": 97,
+    "reg": "G"
+  },
+  {
+    "name": "Mimikyu",
+    "set": "PAL",
+    "coll": 97,
+    "reg": "G"
+  },
+  {
+    "name": "Klefki",
+    "set": "SVI",
+    "coll": 96,
+    "reg": "G"
+  },
+  {
+    "name": "Klefki",
+    "set": "SVI",
+    "coll": 96,
+    "reg": "G"
+  },
+  {
+    "name": "Radiant Alakazam",
+    "set": "SIT",
+    "coll": 59,
+    "reg": "F"
+  },
+  {
+    "name": "Manaphy",
+    "set": "BRS",
+    "coll": 41,
+    "reg": "F"
+  },
+  {
+    "name": "Jirachi",
+    "set": "PAR",
+    "coll": 126,
+    "reg": "G"
+  },
+  {
+    "name": "Zacian V",
+    "set": "CEL",
+    "coll": 16,
+    "reg": "E"
+  },
+  {
+    "name": "Counter Catcher",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Rare Candy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Rare Candy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Rare Candy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Rare Candy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Lost Vacuum",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Fog Crystal",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Fog Crystal",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Fog Crystal",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Fog Crystal",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Super Rod",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Super Rod",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Switch",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Switch",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Ultra Ball",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Ultra Ball",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Nest Ball",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Nest Ball",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Path to the Peak",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Path to the Peak",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Path to the Peak",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Pot Helmet",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Defiance Band",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Geeta",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Geeta",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Boss's Orders",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Boss's Orders",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Arven",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Arven",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Judge",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Judge",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Iono",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Iono",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Tulip",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  },
+  {
+    "name": "Basic Psychic Energy",
+    "set": null,
+    "coll": null,
+    "reg": null
+  }
+]
